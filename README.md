@@ -88,6 +88,6 @@ Ayrıntılar `ProjeRaporu.docx` dosyasında.
 ## Hazırlayanlar
 
 - Talha Cüce ([@talhacuce87](https://github.com/talhacuce87))
-- [2. öğrenci]
+- Enes Yıldırım ([@Yildiran23](https://github.com/Yildiran23))
 
 Ders sorumlusu: Doç. Dr. Selman HIZAL
