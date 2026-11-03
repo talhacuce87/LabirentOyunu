@@ -1,0 +1,10 @@
+# Derleme ciktilari (mingw32-make ile yeniden uretilir)
+bin/*
+lib/*
+!bin/.gitkeep
+!lib/.gitkeep
+*.exe
+*.o
+
+# Word gecici dosyalari
+~$*.docx
